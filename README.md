@@ -38,7 +38,7 @@ This project was built to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/seu-usuario/manage-product-inventory.git
+   git clone https://github.com/TH14G00-J/ManageProductInventory.git
    ```
 
 2. Compile the code:
